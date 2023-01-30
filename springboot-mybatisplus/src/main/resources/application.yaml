@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: springboot-mybatis-plus-demo
+  profiles:
+    active: local
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:33306/demo?useSSL=false
+    username: root
+    password: 123456

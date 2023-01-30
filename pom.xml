@@ -11,6 +11,7 @@
     <modules>
         <module>springboot</module>
         <module>springboot-mybatis</module>
+        <module>springboot-mybatisplus</module>
     </modules>
 
     <properties>

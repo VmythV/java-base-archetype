@@ -6,3 +6,6 @@
 
 ### springboot-mybatis
 基础springboot的web项目,包括mybatis基础模块
+
+### springboot-mybatisplus
+基础springboot的web项目,包括mybatisplus基础模块
