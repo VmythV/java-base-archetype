@@ -9,3 +9,6 @@
 
 ### springboot-mybatisplus
 基础springboot的web项目,包括mybatisplus基础模块
+
+### springboot-mongodb
+基础springboot的web项目,包括mongodb的增删查功能
