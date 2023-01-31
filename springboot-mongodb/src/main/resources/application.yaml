@@ -1,0 +1,16 @@
+server:
+  port: 8083
+spring:
+  application:
+    name: springboot-mongodb-demo
+  profiles:
+    active: local
+  data:
+    mongodb:
+#      uri: mongodb://admin:123456@localhost:27017/test
+      host: localhost
+      port: 27017
+      username: "admin"
+      password: "123456"
+      database: "test"
+      authentication-database: admin
