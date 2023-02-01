@@ -13,6 +13,7 @@
         <module>springboot-mybatis</module>
         <module>springboot-mybatisplus</module>
         <module>springboot-mongodb</module>
+        <module>springboot-kafka</module>
     </modules>
 
     <properties>
