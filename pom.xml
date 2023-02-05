@@ -14,6 +14,7 @@
         <module>springboot-mybatisplus</module>
         <module>springboot-mongodb</module>
         <module>springboot-kafka</module>
+        <module>design-pattern</module>
     </modules>
 
     <properties>
